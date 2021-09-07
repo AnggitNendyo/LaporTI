@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAPOR TI</string>
+    <string name="nama_aplikasi">LAPOR TI</string>
+    <string name="deskripsi_apps">Aplikasi Pelaporan Permintaan Pemeliharaan \n BMN TI BPK Perwakilan Provinsi D.I.Y</string>
+    <string name="attention">Pastikan Perangkat Anda Terkoneksi \n Dengan Wifi Kantor BPK</string>
+    <string name="silakan_masuk_menggunakan_akun_bpk_anda">Silakan Masuk Menggunakan \n Akun BPK Anda</string>
+</resources>

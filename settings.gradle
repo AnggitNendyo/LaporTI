@@ -1,0 +1,2 @@
+rootProject.name = "Aplikasi Permintaan Pemeliharaan BMN TI"
+include ':app'
